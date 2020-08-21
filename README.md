@@ -1,5 +1,7 @@
 # TodoList with Vue js
 
+live site available at https://vue-mytodolist.netlify.app
+
 ## Project setup
 ```
 npm install
