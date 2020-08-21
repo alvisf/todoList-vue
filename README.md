@@ -2,25 +2,18 @@
 
 live site available at https://vue-mytodolist.netlify.app
 
-## Project setup
+## Task
+create a simple crud frontend with vue js and learn how to use it 
+
+
+## How to run the project
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## What i have learnt
+- Vue js
+- Bootstrap 4
